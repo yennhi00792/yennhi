@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "tieuDe": "DU LỊCH MỸ THO - CẦN THƠ",
+        "moTa": "- Thời gian : 4 ngày 3 đêm. Phương tiện : Đi về bằng xe - Đến Mỹ Tho thưởng thức trái cây theo mùa, nghe nhạc tài tử ",
+        "hinh": "https://www.saigontourist.net/uploads/destination/TrongNuoc/Mientay/My-tho-Vinh-tranh-pagoda.jpg"
+    },
+    {
+        "id": "2",
+        "tieuDe": "DU LỊCH CÁI BÈ - CẦN THƠ - CHÂU ĐỐC",
+        "moTa": "- Tham quan nhà xưa Nam bộ hơn trăm năm tuổi, theo lối kiến trúc Pháp - Việt (tùy theo thủy triều)- Tham quan chợ nổi Cái Răng - một chợ nổi lớn của vùng Đồng Bằng sông Cửu Long  - Viếng Lăng Thoại Ngọc Hầu - danh nhân có công khai mở đất An Giang",
+        "hinh": "https://www.saigontourist.net/uploads/destination/TrongNuoc/Mientay/cho-noi_140716792.jpg"
+    },
+    {
+        "id": "3",
+        "tieuDe": "DU LỊCH CÁI BÈ - CẦN THƠ - CHÂU ĐỐC",
+        "moTa": "- Tham quan nhà xưa Nam bộ hơn trăm năm tuổi, theo lối kiến trúc Pháp - Việt (tùy theo thủy triều)- Tham quan chợ nổi Cái Răng - một chợ nổi lớn của vùng Đồng Bằng sông Cửu Long  - Viếng Lăng Thoại Ngọc Hầu - danh nhân có công khai mở đất An Giang",
+        "hinh": "https://www.saigontourist.net/uploads/destination/TrongNuoc/Mientay/cho-noi_140716792.jpg"
+    },
+    {
+        "id": "4",
+        "tieuDe": "DU LỊCH CÁI BÈ - CẦN THƠ - CHÂU ĐỐC",
+        "moTa": "- Tham quan chợ nổi Cái Răng - một chợ nổi lớn của vùng Đồng Bằng sông Cửu Long  - Viếng Lăng Thoại Ngọc Hầu - danh nhân có công khai mở đất An Giang",
+        "hinh": "./img/bg-cta.jpg"
+    }
+]
